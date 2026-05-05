@@ -1,0 +1,31 @@
+=== FALSE POSITIVES (predicted Real, actually Fake) ===
+[prob=1.000] [zaytung] Piyasalarda Bugün: Güne yükselişle başlayan ''Ünlüler Borsası'' öğleden sonra gelen ''Haraç tutarlarında anlaşılamadı'' haberleriyle durgun bir seyir izliyor. Gözler yarınki Sabah ve Yenişafak manşetl
+[prob=1.000] [tr_fakenews] Çiftçinin elinde kalan patates, soğan ve çeltik miktarı Tarım ve Orman Bakanlığı verilerine göre 2020 mahsulü arz fazlası 300 bin patates, 40 bin ton kuru soğan ve ticarete konu edilememiş 75 bin ton 
+[prob=1.000] [tr_fakenews] Turizmi Teşvik Kanunundaki değişikliğin yetki sınırlandırmasından ibaret olduğu Kültür ve turizm gelişme bölgeleri dışında olsa bile, ormanlar dahil, devlet tasarrufu altındaki her türlü arazi kamu ya
+[prob=1.000] [tr_fakenews] Mete Yarar, Tibet'teki havaalanını 'Kobane' diyerek yayınladı Habertürk'te yayınlanan bir programa katılan Mete Yarar Tibet'teki bir havaalanının fotoğrafını "Kobane'deki ABD hava üssü" diyerek yayınl
+[prob=0.999] [mide22] İşten çıkarma yasağı kalktı THY 2500 çalışanını işten çıkardı “Normalleşme” ile birlikte havacılık sektöründe birçok çalışan işsiz kaldı. Edinilen bilgilere göre, Türk Hava Yolları (THY) işten çıkarma
+[prob=0.999] [zaytung] Emeklilerin haftada bir gün kasap vitrinleri önünde durup aralıksız 5 dakika etlere bakarak gözünü doyurma hakkına ilişkin kanun Resmi Gazete'de yayımlanarak yürürlüğe girdi
+[prob=0.999] [tr_fakenews] Esnafın CHP önünde ekonomik kriz ve yüksek fatura eylemi yaptı Ankara’daki halk otobüsü esnafı, CHP Genel Merkezi önünde Ankara Büyükşehir Belediyesi’nin otobüs kiralama modelini protesto ediyor.
+[prob=0.998] [tr_fakenews] 5G WhatsApp mesajı III: 5G ve yeni koronavirüs arasında bağ kurmak mümkün mü? 5G WhatsApp mesajlarını incelediğimiz son analizde, mesajlarda yer alan bazı kavramları ve 5G ve yeni koronavirüs arasında
+[prob=0.998] [tr_fakenews] Portsmouth ve II. Abdülhamit iddiaları: Portsmouth Futbol Kulübü'nü kim kurdu? Portsmouth Futbol Kulübü'nü istihbarat amacıyla II. Abdülhamit'in kurdurduğu iddiaları ne kadar gerçek? Kulübün simgesind
+[prob=0.998] [mide22] @furkancerkes fatih erbakan ın fotoğrafını paylaştığı kuyruklu bebek ne o zaman? aşı konusunda yalanın ve popülizmin dibini sıyırmanın fotoğrafı mı?
+https://t.co/V9rYuBJipa
+
+=== FALSE NEGATIVES (predicted Fake, actually Real) ===
+[prob=0.004] [mide22] NATO Genel Sekreteri Stoltenberg, Rusya Ukrayna çatışmasıyla ilgili “Yüzyılın en büyük savaşı olacak” demedi. Literatüre göre yaşananlar savaş değil ayrıca.
+[prob=0.004] [mide22] Ülkede yangın uçağı olmadığına inanmıyor fakat uydu kullanarak lazer ışınıyla uzaydan ormanların yakıldığına inanıyor. Değişik bir piskoloji bir felsefe...
+[prob=0.004] [mide22] @obabeylik Bill Gates; Afrika'da sağlıksız nüfus artışı durdurulmalı diyince, komplo teorisyeni geri zekalılar adamı şeytan ilan ediyor.
+[prob=0.004] [tr_fakenews] Melih Bulu’nun doktora tezinde intihal yaptı Prof. Dr. Bulu’nun doktora tezinde, özellikle literatür taraması kısmında yer alan ve tezin önemli bölümünü kapsayan alıntılara, olması gerektiği gibi atıf
+[prob=0.005] [mide22] Fransa’nın #bordeaux şehrinde bir tramvay… Şaka şaka, next station is Adobe HQ! #benimgibi https://t.co/dLMa7efdOg
+[prob=0.006] [mide22] Ya siz gerizekalı mısınız, salak mısınız?
+
+Bill Gates'in nüfus azaltma planı olsa bunu sadece covid aşısı ile mi yapacağını sanıyorsunuz.
+
+Bebeklere doğduktan, 2 yaşına kadar vurulan hangi aşı yerli?
+
+[prob=0.006] [tr_fakenews] İsviçre’de bir ötanazi seansını gösterdiği söylenen video 2011 tarihli “Terry Pratchett: Ölmeyi Seçmek” adlı belgeselden alınan görüntüler gerçek.  Videodaki Peter Lawrence Smedley, yaşamını kendi ira
+[prob=0.006] [mide22] Kızılay kan bagisi arabasina gidip sordum aşılilar kan verebiliyor mu dedim 
+Aşı olduktan 7 gun sonra verebilir dedi 
+ #ÜlkeminVekilleriNerede
+[prob=0.006] [tr_fakenews] Bir su bardağı elma çekirdeğinin kişiyi öldürebilecek Elmanın çekirdeğinde doğal olarak bulunan amigdalin, sindirim sistemi enzimleriyle etkileşime geçtiğinde siyanür salımına neden oluyor. Ancak siya
+[prob=0.006] [mide22] AstraZeneca #aşı yaptıranlar şempanzeye dönüşecekmiş, Pfizer/Biontech hiç değilse bluetooth bağlantısı açıyordu #aşıkarşıtlığıaptallıktır https://t.co/cC0xGe4uYE

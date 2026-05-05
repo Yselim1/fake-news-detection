@@ -1,0 +1,82 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+.env
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Large model weights and binary arrays
+*.pth
+*.pt
+*.bin
+*.safetensors
+*.npy
+*.npz
+
+# HuggingFace model checkpoints
+llm_project/results/finetuned_model/
+cv_project/results/stage2_model.pth
+
+# Datasets (download separately — see each README)
+llm_project/data/
+cv_project/data/
+
+# Google Drive downloads
+drive-download-*/
+*.zip
+
+# Log files
+*.log
+
+# Claude Code internal files
+.claude/
+
+# Temporary / OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.swp
+*~
+
+# Screenshots and personal files
+Ekran görüntüsü*
+chat history.txt
+CLAUDE.md
+
+# Report and course submission files (not project code)
+*.tex
+*.pdf
+*.doc
+*.docx
+*.bib
+*.sty
+cvpr2017AuthorKit/
+llm_report.tex
+cv_report.tex
+video_script.txt
+cv_video_script.txt
+proposal_*.pdf
+
+# Loose root-level scripts and generated figures
+generate_llm_figures.py
+figures/
+colab/data_loader.py
+colab/evaluate.py
+colab/few_shot.py
+colab/fine_tune.py
+colab/zero_shot.py
+colab/stage1_clip.py
+colab/stage2_cnn.py
+colab/gradcam.py

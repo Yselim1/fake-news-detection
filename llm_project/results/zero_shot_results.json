@@ -1,0 +1,10 @@
+{
+  "regime": "zero_shot",
+  "metrics": {
+    "accuracy": 0.658,
+    "f1_macro": 0.5749630888998255,
+    "f1_weighted": 0.6185480739116818,
+    "auc_roc": 0.6960227272727273
+  },
+  "report": "              precision    recall  f1-score   support\n\n        fake       0.67      0.89      0.76       308\n        real       0.62      0.28      0.39       192\n\n    accuracy                           0.66       500\n   macro avg       0.64      0.59      0.57       500\nweighted avg       0.65      0.66      0.62       500\n"
+}

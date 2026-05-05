@@ -1,0 +1,10 @@
+{
+  "regime": "full_fine_tune",
+  "metrics": {
+    "accuracy": 0.9306930693069307,
+    "f1_macro": 0.9276388595700039,
+    "f1_weighted": 0.9304906819147246,
+    "auc_roc": 0.9691956128675225
+  },
+  "report": "              precision    recall  f1-score   support\n\n        fake       0.93      0.95      0.94       963\n        real       0.93      0.90      0.91       653\n\n    accuracy                           0.93      1616\n   macro avg       0.93      0.93      0.93      1616\nweighted avg       0.93      0.93      0.93      1616\n"
+}

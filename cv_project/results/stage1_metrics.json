@@ -1,0 +1,12 @@
+{
+  "auc_roc": 0.999247,
+  "avg_precision": 0.999212827813118,
+  "accuracy": 0.989,
+  "f1_macro": 0.989,
+  "f1_weighted": 0.989,
+  "threshold": 0.26609641313552856,
+  "n_pairs": 2000,
+  "dataset": "clip-benchmark/wds_flickr30k",
+  "method": "CLIP cosine similarity (true vs. shuffled pairs)",
+  "report": "                precision    recall  f1-score   support\n\nout-of-context       0.99      0.99      0.99      1000\n      pristine       0.99      0.99      0.99      1000\n\n      accuracy                           0.99      2000\n     macro avg       0.99      0.99      0.99      2000\n  weighted avg       0.99      0.99      0.99      2000\n"
+}

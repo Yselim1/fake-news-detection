@@ -1,0 +1,7 @@
+{
+  "auc_roc": 0.8469451952196424,
+  "accuracy": 0.7760602457391994,
+  "f1_macro": 0.7725824939755288,
+  "f1_weighted": 0.7778548548223756,
+  "report": "              precision    recall  f1-score   support\n\n   authentic       0.85      0.76      0.80      1498\n    tampered       0.69      0.80      0.74      1025\n\n    accuracy                           0.78      2523\n   macro avg       0.77      0.78      0.77      2523\nweighted avg       0.79      0.78      0.78      2523\n"
+}
